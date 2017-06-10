@@ -7,8 +7,6 @@ private-phone-apps := \
 	BluetoothExt \
 	BluetoothMidiService \
 	CertInstaller \
-	com.qualcomm.location \
-	com.qualcomm.services.location \
 	Galaxy4 \
 	KeyChain \
 	LatinIME \
@@ -19,14 +17,15 @@ private-phone-apps := \
 	PhotoTable \
 	PicoTts \
 	PrintSpooler \
-	qcrilmsgtunnel \
+	SamsungServiceMode \
 	Stk \
 	telresources \
-	TimeService \
+	UserDictionaryProvider \
 	WAPPushManager
 
 private-phone-priv-apps := \
 	BackupRestoreConfirmation \
+	CarrierConfig \
 	CellBroadcastReceiver \
 	CMAudioService \
 	CMSettingsProvider \
